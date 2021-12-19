@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qwertydot
 - 👀 I’m interested in WebDev.
-- 🌱 I’m currently learning HTML,CSS,JS and Haskell in the future.
+- 🌱 I’m currently learning HTML,CSS,JS and Haskell in future.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - dalavegomgdn@gmail.com
 
